@@ -95,7 +95,7 @@ in
       # }
       { # context 1
         contents.user = {
-          email = "jonas@t4d.ch";
+          email = "j-i-l@t4d.ch";
           name = "Jonas I. Liechti";
         };
       }
